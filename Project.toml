@@ -1,0 +1,9 @@
+name = "VisNetwork"
+uuid = "5e3b8850-99e2-4069-9550-bfa8a2814280"
+authors = ["Pevnak <pevnak@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+GraphPlot = "a2cc645c-3eea-5389-862e-a155d0052231"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+MetaGraphs = "626554b9-1ddb-594c-aa3c-2596fe9399a5"
